@@ -2,7 +2,7 @@ package temperatureconverter;
 
 /******************************************************************************
 * TemperatureConverter.java 
-* Programmer: @author jcboyd
+* Programmer: @author jcboyd and Kevin Bell
 * Version: 2.0
 * Course: SDEV 2210
 * This program practices the use of unit testing on a simple temperature 
